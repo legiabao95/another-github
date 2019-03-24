@@ -1,1 +1,2 @@
-Đến cả con khi cũng hiểu được lệnh Git.
+Đến cả con khi cũng hiểu được lệnh Git
+pull: Lấy nội dung của remote repository.
